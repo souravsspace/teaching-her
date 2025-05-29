@@ -48,6 +48,5 @@
 | `<details>`   | Expandable content widget                                | `<details><summary>More</summary>Info</details>`   |
 | `<summary>`   | Label for `<details>`                                    | `<summary>Click me</summary>`                      |
 | `<template>`  | Holds client-side template                               | `<template><div>HTML</div></template>`             |
-| `<noscript>`  | Content shown when JS is disabled                        | `<noscript>Enable JavaScript</noscript>`           |
 
 > Tip: Most tags can also use `class`, `id`, and `style` attributes for styling and targeting.
